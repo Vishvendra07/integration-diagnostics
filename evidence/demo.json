@@ -1,0 +1,13 @@
+{
+  "config_revision": 2,
+  "mapped_fields_missing": [
+    "stage"
+  ],
+  "type_mismatch": [],
+  "unmapped_required_fields": [],
+  "error_counts": {
+    "schema_drift": 1,
+    "rate_limit": 1
+  },
+  "ready": false
+}
